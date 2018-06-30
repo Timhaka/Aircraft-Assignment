@@ -1,0 +1,7 @@
+C:\Users\timha\source\repos\Aircraft Assignment\Aircraft Assignment\obj\Debug\Aircraft Assignment.csprojResolveAssemblyReference.cache
+C:\Users\timha\source\repos\Aircraft Assignment\Aircraft Assignment\obj\Debug\Aircraft Assignment.csproj.CoreCompileInputs.cache
+C:\Users\timha\source\repos\Aircraft Assignment\Aircraft Assignment\bin\Debug\Aircraft Assignment.exe.config
+C:\Users\timha\source\repos\Aircraft Assignment\Aircraft Assignment\bin\Debug\Aircraft Assignment.exe
+C:\Users\timha\source\repos\Aircraft Assignment\Aircraft Assignment\bin\Debug\Aircraft Assignment.pdb
+C:\Users\timha\source\repos\Aircraft Assignment\Aircraft Assignment\obj\Debug\Aircraft Assignment.exe
+C:\Users\timha\source\repos\Aircraft Assignment\Aircraft Assignment\obj\Debug\Aircraft Assignment.pdb
